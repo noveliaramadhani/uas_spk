@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASSWORD = '231275'
+HOST = 'localhost'
+PORT = '5433'
+DATABASE_NAME = 'pemilihan_susu' 
